@@ -1,0 +1,24 @@
+Last Edit: Sept 10, 2020
+Last Edit By: Edward Atkinson
+
+Working Title: 
+Stop That
+
+Purpose: 
+Using visualized data, encouraging messages, and as little required user interaction as possible, constantly provide positive support to the user quitting social media and video games
+
+Tech Stack:
+React.js
+PostgreSQL
+Node
+
+
+Front end scope:
+
+User profile management (managing their inputs for estimated time spent and account details like email)
+
+
+
+Database:
+
+Estimated minutes per day spent on activity
